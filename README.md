@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I am Yasin, a student trying to improve himself in mobile application design and development.👨‍💻  🎨</div>  
   
 
-- 🌱 I’m currently learning Dart and Flutter  
+- 🌱 I develop mobile applications with Dart and Flutter.
   
 
 <br/>  
