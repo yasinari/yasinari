@@ -1,98 +1,126 @@
-<div align="center">
-<img src="https://miro.medium.com/max/1024/1*J8xwRYjRNLhPnCD-Yngurg.gif" align="center" style="width: 100%" />
-</div>  
-  
+# 👋 Merhaba, Ben Yasin
 
-### <div align="center">Hi, I am Yasin, a student trying to improve himself in mobile application design and development.👨‍💻  🎨</div>  
-  
+### Flutter Developer | Mobile UI/UX Designer | 3+ Yıl Deneyim
 
-- 🌱 I develop mobile applications with Dart and Flutter.
-  
+Kullanıcı deneyimini ön planda tutan, performanslı ve ölçeklenebilir mobil uygulamalar geliştiriyorum. Flutter ekosisteminde uzmanlaşmış, tasarımdan kod implementasyonuna kadar tüm süreçlerde aktif rol alan bir geliştiriciyim.
 
-<br/>  
+---
 
+## 🚀 Hakkımda
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- 💼 **3+ yıl** profesyonel Flutter geliştirme deneyimi
+- 🎨 UI/UX tasarımından kod implementasyonuna end-to-end çözümler
+- 📱 Cross-platform mobil uygulama geliştirme (iOS & Android)
+- 🏗️ Clean Architecture, SOLID prensipleri ve best practices
+- 🔄 State management çözümleri (Bloc, Riverpod, Provider)
+- 🌐 REST API entegrasyonu ve Firebase servisleri
+- 🎯 Performans optimizasyonu ve responsive tasarım
 
+---
 
+## 💻 Teknoloji Yığınım
 
-### Frontend  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-</td><td valign="top" width="33%">
+### UI/UX Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+### Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+### Additional Skills
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
-
-
-
-### Design  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/yasinari" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yasinari" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@yasinari" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasinari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yasinari&&style=flat-square" align="center" />
-</div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasinari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinari&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🎯 Uzmanlık Alanlarım
+
+```dart
+class FlutterDeveloper {
+  final String name = "Yasin";
+  final int experience = 3; // years
   
+  final List<String> expertise = [
+    'Flutter & Dart',
+    'State Management (Bloc, Riverpod, Provider)',
+    'Clean Architecture',
+    'RESTful APIs & Firebase',
+    'Responsive Design',
+    'UI/UX Implementation',
+    'Performance Optimization',
+    'Git Version Control'
+  ];
+  
+  final List<String> currentlyLearning = [
+    'Advanced Flutter Animations',
+    'CI/CD Pipelines',
+    'Flutter Web & Desktop'
+  ];
+  
+  String toString() => 'Passionate Flutter Developer 🚀';
+}
+```
 
-<br/>  
+---
 
-<div align="center"></div>
-<br />
+## 🌟 Odak Alanlarım
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- ✨ **Pixel-perfect UI Implementation** - Figma tasarımlarını %100 doğrulukla kodlama
+- 🏗️ **Scalable Architecture** - Büyüyen projelere uygun mimari yapılar
+- ⚡ **Performance First** - Optimize edilmiş, hızlı uygulamalar
+- 🎨 **Design Systems** - Tutarlı ve yeniden kullanılabilir component'ler
+- 📱 **Native Feel** - Platform-specific tasarım dilleri (Material & Cupertino)
+
+---
+
+## 📝 Son Blog Yazılarım
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Bu alan otomatik olarak Medium yazılarınızla güncellenecek -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Daha fazla yazı için Medium profilime göz atın...](https://medium.com/@yasinari)
+
+---
+
+## 🤝 Benimle İletişime Geçin
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasinari)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yasinari)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasinari)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasinari&style=for-the-badge&color=blue" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <i>⚡ "Clean code always looks like it was written by someone who cares." - Robert C. Martin</i>
+</div>
